@@ -2,8 +2,11 @@
 
 # Welcome 
 ### nothing to show 
+* GitHub action to demonstrate the Continuous Intergration(CI) technique
+* Regression test (test hồi quy)
 * ...
 
 ### Screenshots
 ![DDT & TTD with JUnit](https://github.com/oixankcute/math-util/blob/main/img/DDt.png)
-#### © 2023 oixank
+
+#### © 2023 chouchou
