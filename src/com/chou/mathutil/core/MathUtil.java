@@ -49,7 +49,7 @@ public class MathUtil {
     //chốt: n! = n*(n-1)!
     public static long getFactorial(int n) {
         if(n<0 || n>20){
-            throw new IllegalArgumentException("0...20");
+            throw new IllegalArgumentException("Invalid argument. N must be 0..20");
         }
         if (n == 0 || n == 1) {
             return 1;
